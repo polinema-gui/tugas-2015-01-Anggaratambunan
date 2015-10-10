@@ -1,0 +1,11 @@
+c:\users\anggara\documents\visual studio 2013\Projects\tugas\tugas\bin\Debug\tugas.exe.config
+c:\users\anggara\documents\visual studio 2013\Projects\tugas\tugas\obj\Debug\tugas.Form1.resources
+c:\users\anggara\documents\visual studio 2013\Projects\tugas\tugas\obj\Debug\tugas.Resources.resources
+c:\users\anggara\documents\visual studio 2013\Projects\tugas\tugas\obj\Debug\tugas.vbproj.GenerateResource.Cache
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\bin\Debug\tugas.exe
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\bin\Debug\tugas.pdb
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\bin\Debug\tugas.xml
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\obj\Debug\tugas.exe
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\obj\Debug\tugas.xml
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\obj\Debug\tugas.pdb
+C:\Users\Anggara\Documents\Visual Studio 2013\Projects\tugas\tugas\obj\Debug\tugas.vbprojResolveAssemblyReference.cache
